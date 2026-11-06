@@ -202,3 +202,9 @@ isotonic on a skewed binary problem, input validation, and CLI end-to-end runs.
 **النتيجة**
 على بيانات الأرقام المكتوبة باليد (UCI)، نموذج Random Forest كان خطأ المعايرة
 حقه 0.223، ونزل بعد التصحيح إلى 0.015، والدقة بقت زي ما هي (97.6٪).
+
+## الرخصة | License
+
+الكود برخصة [MIT](LICENSE). أما البيانات والمصادر الخارجية فتبقى على شروطها الأصلية.
+
+The code is under the [MIT License](LICENSE). Data and third-party sources keep their own terms.
