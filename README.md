@@ -1,5 +1,7 @@
 # calibcheck — measure and fix classifier calibration
 
+**🌐 الموقع:** https://algilani2008.github.io/calibration-check/ | **📖 الشرح بالعربي:** [شرح_المشروع.md](شرح_المشروع.md)
+
 A small, dependency-light Python library + CLI that answers one question:
 **when my classifier says "90 % sure", is it right 90 % of the time?**
 
